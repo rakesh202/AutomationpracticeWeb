@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64589" started-at="2021-02-06T19:27:27Z" finished-at="2021-02-06T19:28:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64589" started-at="2021-02-06T19:27:27Z" finished-at="2021-02-06T19:28:31Z">
+      <class name="com.test.automation.homepage.verifyEnetoEndFunctionality">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:com.test.automation.homepage.verifyEnetoEndFunctionality@271053e1]" name="setUpSuite" is-config="true" duration-ms="724" started-at="2021-02-07T00:57:26Z" finished-at="2021-02-07T00:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.homepage.verifyEnetoEndFunctionality@271053e1]" name="setup" is-config="true" duration-ms="19004" started-at="2021-02-07T00:57:27Z" finished-at="2021-02-07T00:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyEnetoEndFunctionality()[pri:0, instance:com.test.automation.homepage.verifyEnetoEndFunctionality@271053e1]" name="verifyEnetoEndFunctionality" duration-ms="39783" started-at="2021-02-07T00:57:46Z" finished-at="2021-02-07T00:58:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEnetoEndFunctionality -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.homepage.verifyEnetoEndFunctionality@271053e1]" name="afterMethod" is-config="true" duration-ms="1321" started-at="2021-02-07T00:58:25Z" finished-at="2021-02-07T00:58:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyEnetoEndFunctionality status=SUCCESS method=verifyEnetoEndFunctionality.verifyEnetoEndFunctionality()[pri:0, instance:com.test.automation.homepage.verifyEnetoEndFunctionality@271053e1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.homepage.verifyEnetoEndFunctionality@271053e1]" name="endTest" is-config="true" duration-ms="4410" started-at="2021-02-07T00:58:27Z" finished-at="2021-02-07T00:58:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.automation.homepage.verifyEnetoEndFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
